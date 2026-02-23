@@ -1,0 +1,21 @@
+=== Question 1 ===
+#Answer below
+1 ls 'it prints a list for all the files and folders in the dir'
+2 cd config 'it move you from the dir you are in to the one after the cd'
+3 cat settings.conf 'prints out what is the file listed'
+4 mkdir backup ' makes a folder with the name listed'
+5 cp settings.conf backup 'copys the file that is listed first to the folder/file listed second'
+6 rm server.log` 'Deletes first the file with the name given'
+
+
+=== Question 2 ===
+#Answer below
+loops are used when you want some code to run until you get some results. a for loop is used when you want the code to run for everything in something and a while loop is for when the condition hasn't changed be carefull of something called an infnet loop that is when the conditions that break the loop are never met in some cases you can use key words like break the break the code.
+
+
+=== Question 3 ===
+#Answer below
+immutable data types are the types the data_structures that once they are set you can not change them later likeset and tuples unlike list and dictionaries when you can freely change the data inside at any time set and tuples you can not, when you are working with set and tuples you know that you data wont change so you know what to expect when working with the data and can code with that in mind and you know to look for a bug some where else 
+
+=== Question 4 ===
+#Answer below
